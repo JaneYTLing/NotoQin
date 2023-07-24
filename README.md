@@ -1,6 +1,6 @@
 # NotoQin
-古琴字體，可用於 Musescore4。[安裝教學](http://example.net/)<br>
-Font for Guqin Score to be used in Musescore4. Installation guide can be found [here].
+古琴字體，可用於 Musescore4。按[此](https://github.com/JaneYTLing/NotoQin/wiki/%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-Installation-Guide)查閱安裝教學。<br>
+Font for Guqin Score to be used in Musescore4. Installation guide can be found [here](https://github.com/JaneYTLing/NotoQin/wiki/%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-Installation-Guide).
 
 ## 左手 Left Hand
 ### 手指 Fingers
