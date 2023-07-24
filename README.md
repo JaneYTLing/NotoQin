@@ -8,6 +8,8 @@
 1. 還未能拼出完整減字
 2. 英文或其他字母語言的歌詞在樂譜中會變亂碼
 
+_____________________________________________________________________________________________
+
 Font for Guqin Score (Jianzipu) to be used in Musescore4. <br> 
 [Installation guide](https://github.com/JaneYTLing/NotoQin/wiki/0.-%E5%AE%89%E8%A3%9D%E6%95%99%E5%AD%B8-Installation-Guide) <br>
 [Usage](https://github.com/JaneYTLing/NotoQin/wiki/1.-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95-Usage) <br>
