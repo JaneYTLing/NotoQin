@@ -1,11 +1,11 @@
 # NotoQin
 古琴字體，可用於 Musescore4。[安裝教學](http://example.net/)<br>
-Font for Guqin Score to be used in Musescore4. Installation guide can be found here.
+Font for Guqin Score to be used in Musescore4. Installation guide can be found [here].
 
 ## 左手 Left Hand
 ### 手指 Fingers
 |字母／符號 Symbol | 指法 Fingering |
-|------------|-------|
+|:----------:|-------|
 |`g`         |大     |
 |`f`         |食 (亻)|
 |`d`         |中     |
@@ -13,7 +13,7 @@ Font for Guqin Score to be used in Musescore4. Installation guide can be found h
 
 ### 徽位 Positions
 |字母／符號 Symbol | 指法 Fingering |
-|------------|-------|
+|:----------:|-------|
 |`1`         |一     |
 |`2`         |二     |
 |`3`         |三     |
@@ -29,7 +29,7 @@ Font for Guqin Score to be used in Musescore4. Installation guide can be found h
 
 ### 滑音 Sliding
 |字母／符號 Symbol | 指法 Fingering |
-|------------|-------|
+|:----------:|-------|
 |`^`         |上     |
 |`v`         |下     |
 |`>`         |進     |
@@ -43,7 +43,11 @@ Font for Guqin Score to be used in Musescore4. Installation guide can be found h
 
 ### 其他 Others
 |字母／符號 Symbol | 指法 Fingering |
-|------------|-------|
+|:----------:|-------|
+|`~`         |散     |
+|`o`         |泛     |
+|`[`         |泛起   |
+|`]`         |泛止   |
 |`T`         |搯起   |
 |`G`         |爪起   |
 |`D`         |带起   |
@@ -51,7 +55,7 @@ Font for Guqin Score to be used in Musescore4. Installation guide can be found h
 ## 右手 Right Hand
 ### 八大指法 Basic Fingering
 |字母／符號 Symbol | 指法 Fingering |
-|------------|-------|
+|:----------:|-------|
 |`h`         |托 (乇)|
 |`H`         |劈 (尸)|
 |`j`         |抹 (木)|
@@ -63,18 +67,13 @@ Font for Guqin Score to be used in Musescore4. Installation guide can be found h
 
 ### 其他 Others
 |字母／符號 Symbol | 指法 Fingering |
-|------------|-------|
+|:----------:|-------|
 |`u`         |歷     |
-|`、|`         |撮     |
+|`\|`         |撮     |
 |`=`           |如一   |
 |`\`           | 反    |
 
-## 
-~ 散
-o 泛
 
-[ 泛起 (己)
-] 泛止
 
 
 
